@@ -1,0 +1,63 @@
+Date/Day: __________  Time: __________  Weather: ☼ / ☁ / 🌧
+
+UTILITY CONSUMPTION
+- IPS (Inlet Pumping Station)
+- MCSTP (Main Control Sewage Treatment Plant)
+
+VOLUME OF INFLUENT & EFFLUENT
+- Influent Volume: __________
+- Effluent Volume: __________
+
+INLET PUMPING STATION (IPS)
+- Raw Sewage Pump (RSP):
+  - Equipment Status: __________
+- Raw Sewage Pump (RSP):
+  - Equipment Status: __________
+
+AERATION TANK & EA BLOWER ROOM
+- Blower:
+  - Equipment Status: __________
+- Blower:
+  - Equipment Status: __________
+
+EFFLUENT DISINFECTION TANK
+- Gate Actuation: __________
+- Tank Level: __________
+- Equipment Status: __________
+
+RAS & WAS SUMP
+- RAS Pump: __________
+- WAS Pump: __________
+- Equipment Status: __________
+
+AERATED GRIT, GREASE & SECONDARY CHAMBER (AGG)
+- Blower:
+  - Equipment Status: __________
+- RAS Pump: __________
+- WAS Pump: __________
+- Equipment Status: __________
+
+SLUDGE TREATMENT BUILDING (STB)
+- Volume (Decanter): __________
+- Dry Sludge: __________
+- Sludge Tank Level: __________
+- Polymer Usage: __________
+- Equipment Status: __________
+
+PARAMETER READING
+- Aeration Tank: __________
+- Final Discharge: __________
+
+COMMENT (FINDINGS / ABNORMALITIES)
+- Night Shift (0000 – 0800): __________
+- Morning Shift (0800 – 1600): __________
+- Evening Shift (1600 – 0000): __________
+
+Recorded by (Contractor): ____________________
+Name: __________  Company: __________
+
+Checked by (SSDS): ____________________
+Name: __________  Designation: __________
+
+Verified by (SSDS): ____________________
+Name: __________  Designation: __________
